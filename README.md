@@ -13,6 +13,3 @@ At the right side of this GUI, you use property Tab in order to discover a concr
 Finally, you press the finish button to gnerate the different VNFs/NS packages and requet OSM to onboard them.
 
 
-# Common setup
-Clone the repo
-git clone https://github.com/nouarnour/DYVINE.git  
